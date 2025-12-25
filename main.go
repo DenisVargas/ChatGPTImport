@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/denisvargas/chatgptimport/cmd"
+	"github.com/DenisVargas/ChatGPTImport/cmd"
 )
 
 /* -------------------------------------------------------------------------- */

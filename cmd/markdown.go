@@ -1,6 +1,3 @@
-/*
-Copyright © 2025 Denis Vargas <denis.vargasrivero@outlook.com>
-*/
 package cmd
 
 import (

@@ -1,4 +1,4 @@
-module github.com/denisvargas/chatgptimport
+module github.com/DenisVargas/ChatGPTImport
 
 go 1.25.5
 

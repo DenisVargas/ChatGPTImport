@@ -8,7 +8,6 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "main.go [source] [optional output]",
 	Short: "Parses ChatGPT conversation exports into markdown files",
