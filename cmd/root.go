@@ -9,7 +9,7 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "main.go [source] [optional output]",
+	Use:   "ChatGPTImport [source] [optional output]",
 	Short: "Parses ChatGPT conversation exports into markdown files",
 	Long: `This tool processes JSON exports of ChatGPT conversations and converts them into well-formatted markdown files,
 exporting them as individual conversation files to the specified output location or the current directory if no output is provided.`,
